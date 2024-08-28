@@ -1,7 +1,7 @@
 # bipbop
 ### Boas vindas ao meu perfil ⚛️
 
-Meu nome é Drielly ⚗️
+Meu nome é ***Drielly*** ⚗️
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
